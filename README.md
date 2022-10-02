@@ -1,14 +1,9 @@
-# Sample Hardhat Project
+# Crypto Zombies: Build a Zombie Army
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Pit your army of zombies against the zombies of other players in one of the world's first blockchain-based games. A half school code, half MMO cryptocollective strategy game.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-# cryptozombies
+# Based on https://cryptozombies.io/
+
+This is a card game based on the popular learning platform cryptozombies.io.
+We adapted the lessons to a card game using the 2022 smart contract version and helpers.
